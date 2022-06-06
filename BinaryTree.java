@@ -80,5 +80,20 @@ public class BinaryTree {
   
           //Display the maximum width of given tree  
           System.out.println("Maximum width of the binary tree: " + bt.findMaximumWidth());  
+        
+         System.out.println("syso issue1");
+        System.out.println("syso issue2");
+        System.out.println("syso issue3");
+        System.out.println("syso issue4");
+        System.out.println("syso issue5");
+        System.out.println("syso issue6");
+        System.out.println("syso issue7");
+        System.out.println("syso issue8");
+        System.out.println("syso issue9");
+        System.out.println("syso issue10");
+        System.out.println("syso issue11");
+        System.out.println("syso issue12");
+         
+                            
       }  
 } 
